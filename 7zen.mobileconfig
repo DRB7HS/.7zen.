@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>Label</key>
+            <string> HACKER 7ZEN </string>
+            <key>PayloadDisplayName</key>
+            <string>7ZEN Web App</string>
+            <key>PayloadIdentifier</key>
+            <string>com.7zen.ios</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>12345678-ABCD-1234-ABCD-123456789ABC</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Precomposed</key>
+            <true/>
+            <key>URL</key>
+            <string>https://drb7hs.github.io/.7zen./</string>
+            <key>Icon</key>
+           <data>
+         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
+      </data>
+            <key>IsRemovable</key>
+            <true/>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>7ZEN App</string>
+    <key>PayloadIdentifier</key>
+    <string>com.7zen.mobileconfig</string>
+    <key>PayloadOrganization</key>
+    <string>7zen</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>87654321-DCBA-4321-DCBA-987654321ABC</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
